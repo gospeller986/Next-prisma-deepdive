@@ -1,3 +1,16 @@
+# Tried learning backend in Next Js 
+
+## Tech Learnt 
+->  Next Js 
+->  Postgre SQL
+->  Prisma ORM 
+
+## Concepts Learnt 
+-> Server side rendering 
+-> "use server"
+-> designing Schema in prisma 
+-> Server Actions 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
